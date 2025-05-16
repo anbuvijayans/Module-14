@@ -32,8 +32,6 @@ To write a Python program to implement CPU Process Scheduling using a queue.
 ### PROGRAM  
 
 ```
-# Reg.No: 212223060220
-# Name: Rakshitha M
 
 def CalculateWaitingTime(at, bt, N):
 	wt = [0]*N;
